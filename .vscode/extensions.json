@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"visualstudioexptteam.vscodeintellicode",
+		"biomejs.biome",
+		"hashicorp.terraform",
+		"ms-vscode-remote.remote-containers"
+	]
+}
